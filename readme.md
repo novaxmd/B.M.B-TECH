@@ -38,7 +38,7 @@
 <p align="center">
     <strong>3. DEPLOY TO HEROKU</strong>
     <br>
-    <a href="https://dashboard.heroku.com/new?template=https://github.com/Dev-bmbtech/BMB-TECH" target="_blank">
+    <a href="https://dashboard.heroku.com/new?template=https://github.com/novaxmd/BMB-TECH" target="_blank">
         <img alt="Heroku" src="https://img.shields.io/badge/Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=purple&color=purple"/>
     </a>
 </p>
